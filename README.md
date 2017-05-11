@@ -8,7 +8,7 @@ Running the program requires the use of an Apple II emulator.
 
 1. Install the [Apple II Emulator](http://www.virtualii.com/)
 2. Download the following Apple IIe ROM:
-    * Apple IIe - ftp://ftp.apple.asimov.net/pub/apple_II/emulators/rom_images/apple_iie_rom.zip
+    * Apple II+ - ftp://ftp.apple.asimov.net/pub/apple_II/emulators/rom_images/apple_ii+_rom.zip
     
 ## Running the Program
 1. Start the emulator and load the ROM.
