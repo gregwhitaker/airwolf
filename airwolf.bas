@@ -6,7 +6,7 @@
 31  IF I = 9 THEN GOSUB 1000
 40 L$ = ""
 45  FOR J = 1 TO 9
-50 L1 =  INT ( RND (1) * 15 ) + 1: L2 =  INT ( RND (1) * 15 ) + 1
+50 L1 =  INT ( RND (1) * 16 ) + 1: L2 =  INT ( RND (1) * 16 ) + 1
 60 L$ = L$ + MID$ (A$,L1,1) +  MID$(A$,L2,1) + ": "
 65   IF I = 16 THEN GOSUB 1000
 70 NEXT J
