@@ -1,3 +1,3 @@
 # airwolf
 
-![airwolf](https://media.giphy.com/media/jFYpcBrFURZW8/giphy.gif)
+![](https://media.giphy.com/media/jFYpcBrFURZW8/giphy.gif)
