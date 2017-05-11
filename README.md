@@ -7,7 +7,7 @@ BASIC program used in Airwolf S02E03 "Moffett's Ghost"
 Running the program requires the use of an Apple II emulator.
 
 1. Install the [Apple II Emulator](http://www.virtualii.com/)
-2. Download the following Apple IIe ROM:
+2. Download the following Apple II+ ROM:
     * Apple II+ - ftp://ftp.apple.asimov.net/pub/apple_II/emulators/rom_images/apple_ii+_rom.zip
     
 ## Running the Program
