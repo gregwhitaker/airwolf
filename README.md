@@ -14,3 +14,6 @@ Running the program requires the use of an Apple II emulator.
 1. Start the emulator and load the ROM.
 2. Copy and paste the program onto the Apple II command prompt and press enter.
 3. Type `RUN` at the command prompt to start the program.
+
+## Credit
+This is an adaptation of a [gist](https://gist.github.com/jgrahamc/926a7854c2668f20edb58fe62ac3f99f) provided by @jgrahamc
